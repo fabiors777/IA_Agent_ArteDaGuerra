@@ -56,8 +56,4 @@ Geographer & Data Scientist
 ## 📄 License
 
 This project is intended for **educational and research purposes only**.  
-All rights to the book *“Blue Carbon”* belong to **The Nature Conservancy** and the authors **Stefaine Simpson & Lindsey Smart**.
 
-<p align="center">
-  <i>“Science, data, and AI — driving sustainability through knowledge.”</i>
-</p>
