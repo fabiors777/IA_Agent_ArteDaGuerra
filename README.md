@@ -7,7 +7,7 @@
   <br/>
   <a href="#-features">Features</a> •
   <a href="#-requirements">Requirements</a> •
-  <a href="#-author">Author</a>
+  <a href="#author">Author</a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
   <img src="https://img.shields.io/badge/LangChain-0.2+-orange?logo=chainlink" />
@@ -48,7 +48,7 @@ It combines **LangChain**, **Chroma**, and **OpenAI models** to provide concise 
 **Fábio Souza**  
 Geographer & Data Scientist
 🌎 Specialized in Geospatial Intelligence, AI, and Environmental Innovation  
-📧 [LinkedIn](www.linkedin.com/in/fabio-ribeiro-de-souza-60007710)
+📧 [LinkedIn](https://www.linkedin.com/in/fabio-ribeiro-de-souza-60007710)
 
 ---
 
