@@ -1,0 +1,37 @@
+Para instalar as bibliotecas:
+
+- python-dotenv
+- langchain
+- langchain-openai
+- langchain-community
+- langchan-chroma
+- chromadb
+- openai
+- pypdf
+
+| Pacote                | Função                                                   |
+| --------------------- | -------------------------------------------------------- |
+| `python-dotenv`       | Lê variáveis de ambiente do arquivo `.env`               |
+| `langchain`           | Metapacote principal (coordena os submódulos)            |
+| `langchain-core`      | Núcleo do LangChain (prompts, chains, types, etc.)       |
+| `langchain-community` | Conectores e loaders mantidos pela comunidade            |
+| `langchain-openai`    | Interface oficial com a API da OpenAI                    |
+| `langchain-chroma`    | Integração direta entre LangChain e Chroma               |
+| `chromadb`            | Banco vetorial local para embeddings                     |
+| `openai`              | SDK oficial da OpenAI (necessário para chamadas diretas) |
+| `pypdf`               | Leitura de PDFs para ingestão no pipeline RAG            |
+
+
+usar os seguintes comandos:
+
+pip install -U \
+python-dotenv \
+langchain \
+langchain-core \
+langchain-community \
+langchain-openai \
+langchain-chroma \
+chromadb \
+openai \
+pypdf
+
