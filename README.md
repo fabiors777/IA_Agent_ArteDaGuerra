@@ -7,7 +7,7 @@
   <br/>
   <a href="#-features">Features</a> •
   <a href="#-requirements">Requirements</a> •
-  <a href="#author">Author</a>
+  <a href="#-author">Author</a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
   <img src="https://img.shields.io/badge/LangChain-0.2+-orange?logo=chainlink" />
