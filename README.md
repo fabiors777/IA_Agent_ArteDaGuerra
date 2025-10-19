@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="A Arte da Guerrar" width="100%">
+  <img src="banner.png" alt="A Arte da Guerra" width="100%">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <br/>
   <a href="#-features">Features</a> •
   <a href="#-requirements">Requirements</a> •
-  <a href="#author">Author</a>
+  <a href="#-author">Author</a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
   <img src="https://img.shields.io/badge/LangChain-0.2+-orange?logo=chainlink" />
