@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="banner.png" alt="A Arte da Guerrar" width="100%">
+</p>
+
+<p align="center">
+  <b>An Intelligent RAG-based Assistant trained on “The Art of War” by Sun Tzu</b>
+  <br/>
+  <a href="#-overview">Overview</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-example-interaction">Example</a> •
+  <a href="#-author">Author</a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
+  <img src="https://img.shields.io/badge/LangChain-0.2+-orange?logo=chainlink" />
+  <img src="https://img.shields.io/badge/OpenAI-API-success?logo=openai" />
+  <img src="https://img.shields.io/badge/Chroma-VectorDB-purple" />
+  <img src="https://img.shields.io/badge/license-Research%20Use-lightgrey" />
+</p>
+
+---
+
 # 🧠 Sun Tzu AI Agent — *The Art of War* Chat
 
 This project is a simple **Retrieval-Augmented Generation (RAG)** chatbot that answers questions **using the book “The Art of War” by Sun Tzu** as its only knowledge source.
@@ -27,6 +48,19 @@ It combines **LangChain**, **Chroma**, and **OpenAI models** to provide concise 
 
 ### 1. Clone this repository
 
-```bash
-git clone https://github.com/<your-username>/sun-tzu-ai-agent.git
-cd sun-tzu-ai-agent
+## 🧑‍💻 Author
+
+**Fábio Souza**  
+Geographer & Data Scientist
+🌎 Specialized in Geospatial Intelligence, AI, and Environmental Innovation  
+📧 [LinkedIn](www.linkedin.com/in/fabio-ribeiro-de-souza-60007710)
+
+
+## 📄 License
+
+This project is intended for **educational and research purposes only**.  
+All rights to the book *“Blue Carbon”* belong to **The Nature Conservancy** and the authors **Stefaine Simpson & Lindsey Smart**.
+
+<p align="center">
+  <i>“Science, data, and AI — driving sustainability through knowledge.”</i>
+</p>
