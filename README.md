@@ -5,9 +5,8 @@
 <p align="center">
   <b>An Intelligent RAG-based Assistant trained on “The Art of War” by Sun Tzu</b>
   <br/>
-  <a href="#-overview">Overview</a> •
   <a href="#-features">Features</a> •
-  <a href="#-example-interaction">Example</a> •
+  <a href="#-requirements">Requirements</a> •
   <a href="#-author">Author</a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" />
